@@ -21,7 +21,22 @@
 
 4.项目进度
 
+## 2021.5.19
 
+1.文章阅读
 
+* [实现一个简易的 npm install](https://juejin.cn/post/6963855043174858759)
 
+* [CSS 实现多行文本“展开收起”](https://juejin.cn/post/6963904955262435336)
 
+2.源码阅读
+
+* [map的实现](https://github.com/yeyuqiudeng/pocket-lodash/blob/master/map.md)
+
+* [手写一个深拷贝](https://blog.csdn.net/weixin_39878646/article/details/110723482)
+
+3.leecode刷题
+
+* [整数反转](https://leetcode-cn.com/problems/reverse-integer/)
+
+4. 项目进度
