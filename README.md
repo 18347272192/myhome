@@ -40,3 +40,25 @@
 * [整数反转](https://leetcode-cn.com/problems/reverse-integer/)
 
 4. 项目进度
+
+## 2021.5.20
+
+1文章阅读
+
+ * [基于Flutter2.0，语法空安全，Provider MVVM的最佳实践，可以用于线上应用的优秀架构](https://juejin.cn/post/6963963561030729736)
+
+* [从业务中学到的中间件思想](https://juejin.cn/post/6964269222578896909)
+
+2.源码阅读
+
+* [patch](https://juejin.cn/post/6964141635856760868)
+
+* [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/solution/gong-shui-san-xie-13-luo-ma-shu-zi-zhuan-6vm8/)
+
+3.leecode 刷题
+
+[三数之和](https://leetcode-cn.com/problems/3sum/submissions/)
+
+4.项目进度
+
+* 成绩管理 前端渲染 表格
